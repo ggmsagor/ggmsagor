@@ -58,3 +58,6 @@ I aim to use **data-driven insights** to improve organizational performance, emp
 ![Excel](https://img.shields.io/badge/Excel-Advanced-green)
 ![Power BI](https://img.shields.io/badge/PowerBI-Dashboard-yellow)
 ![SPSS](https://img.shields.io/badge/SPSS-Statistics-blue)
+![HR Analytics](https://img.shields.io/badge/HR-Analytics-orange)
+![Data Analysis](https://img.shields.io/badge/Data-Analysis-informational)
+![Research](https://img.shields.io/badge/Research-Academic-success)
