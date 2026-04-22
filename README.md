@@ -23,16 +23,16 @@ I aim to use **data-driven insights** to improve organizational performance, emp
 ## 🛠️ Tools & Skills
 - 📊 Excel (Advanced, Pivot Tables, Dashboards)  
 - 📈 Power BI  
-- 📉 SPSS  
-- 🐍 Python (Learning)  
+- 📉 SPSS
+- R (Learning)
+- 🐍 Python (Learning)
 - 📄 Research & Academic Writing (APA)  
 
 ---
 
 ## 📁 Featured Projects (Portfolio)
 
-🔹 Sales Data Analysis (Excel Dashboard)  
-🔹 HR Analytics Dashboard  
+🔹 HR Analytics Project (Excel – In Progress)    
 🔹 Financial Performance Analysis  
 
 👉 (Projects will be uploaded here step by step)
