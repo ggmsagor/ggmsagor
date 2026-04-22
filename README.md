@@ -24,7 +24,7 @@ I aim to use **data-driven insights** to improve organizational performance, emp
 - 📊 Excel (Advanced, Pivot Tables, Dashboards)  
 - 📈 Power BI  
 - 📉 SPSS
-- R (Learning)
+- 💻 R (Learning)
 - 🐍 Python (Learning)
 - 📄 Research & Academic Writing (APA)  
 
