@@ -49,7 +49,7 @@ I aim to use **data-driven insights** to improve organizational performance, emp
 ## 🌐 Connect With Me
 - LinkedIn: www.linkedin.com/in/ggmsagor  
 - ResearchGate: https://www.researchgate.net/profile/Gazi-Golam-Morshed-Sagor  
-- Google Scholar: https://scholar.google.com  
+- Google Scholar: https://scholar.google.com/citations?user=fwIOaqcAAAAJ&hl=en
 
 ---
 
